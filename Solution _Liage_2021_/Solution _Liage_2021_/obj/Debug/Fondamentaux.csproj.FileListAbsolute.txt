@@ -1,0 +1,15 @@
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\bin\Debug\Solution 'Liage_2021'.exe.config
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\bin\Debug\Solution 'Liage_2021'.exe
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\bin\Debug\Solution 'Liage_2021'.pdb
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\bin\Debug\GestionEtudiant.exe
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\bin\Debug\GestionEtudiant.pdb
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\bin\Debug\GestionEtudiant.exe.config
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\obj\Debug\Fondamentaux.csprojAssemblyReference.cache
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\obj\Debug\Solution__Liage_2021_.Properties.Resources.resources
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\obj\Debug\Fondamentaux.csproj.GenerateResource.cache
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\obj\Debug\Fondamentaux.csproj.CoreCompileInputs.cache
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\obj\Debug\Fondamentaux.csproj.CopyComplete
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\obj\Debug\Solution 'Liage_2021'.exe
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\obj\Debug\Solution 'Liage_2021'.pdb
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\bin\Debug\EntityFramework.dll
+C:\Users\mredk\source\repos\Solution 'Liage_2021'\Solution 'Liage_2021'\bin\Debug\EntityFramework.xml
